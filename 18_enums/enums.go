@@ -8,9 +8,9 @@ type OrderStatus string
 
 const (
 	Received  OrderStatus = "received"
-	Confirmed             = "confirmed"
-	Prepared              = "prepared"
-	Delivered             = "delivered"
+	Confirmed OrderStatus = "confirmed"
+	Prepared  OrderStatus = "prepared"
+	Delivered OrderStatus = "delivered"
 )
 
 func changeOrderStatus(status OrderStatus) {
