@@ -3,7 +3,7 @@
 Welcome to **GoLang Learn**, a hands-on playground for learning the Go programming language through bite-sized examples. This repo powers the **Coder's Gyan Go learning path**, and each numbered folder contains a focused program that demonstrates a single core concept, making it easy to run, tweak, and internalize Go fundamentals.
 
 ## Getting Started
-- **Prerequisites:** Install Go 1.21 or later from [go.dev/dl](https://go.dev/dl/).
+- **Prerequisites:** Install Go 1.21 or latest version from [go.dev/dl](https://go.dev/dl/).
 - **Clone:** `git clone https://github.com/toufikforyou/GoLangLearn.git`
 - **Run an example:** Navigate into a lesson folder and run `go run <file>.go` (e.g. `cd 5_loops; go run loops.go`).
 - **Experiment:** Modify the code and re-run to see how the behavior changes.
